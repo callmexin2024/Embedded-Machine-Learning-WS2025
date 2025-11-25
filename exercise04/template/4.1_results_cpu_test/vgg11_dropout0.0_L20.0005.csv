@@ -1,0 +1,2 @@
+epoch,train_loss,test_loss,test_accuracy,epoch_time_sec
+1,2.3032784883117676,2.3030305419921877,10.0,839.4629402160645
